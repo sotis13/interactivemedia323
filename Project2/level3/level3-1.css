@@ -1,95 +1,196 @@
 #fireandice{
 	position:fixed;
-	margin-top:50px;
+	margin-top:100px;
 	margin-right:100px;
-	margin-left:500px;
+	margin-left:350px;
 	margin-bottom: 100px;
 }
 #some{
 	position:fixed;
+	margin-top:175px;
+	margin-right:100px;
+	margin-left:300px;
+	margin-bottom: 100px;
 }
 #theworld{
 	position:fixed;
+    margin-top:200px;
+	margin-right:100px;
+	margin-left:550px;
+	margin-bottom: 100px;
 
 }
 #infire{
 	position:fixed;
+    margin-top:200px;
+	margin-right:100px;
+	margin-left:200px;
+	margin-bottom: 100px;
 
 }
 #somesay{
-	position:fixed;
+    position:fixed;
+	margin-top:225px;
+	margin-right:100px;
+	margin-left:300px;
+	margin-bottom: 100px;
+    
 }
 #inice{
 	position:fixed;
+    position:fixed;
+    margin-top:250px;
+	margin-right:100px;
+	margin-left:200px;
+	margin-bottom: 100px;
 
 }
 #from{
 	position:fixed;
+    margin-top:300px;
+	margin-right:100px;
+	margin-left:425px;
+	margin-bottom: 100px;
 
 }
 #ihold{
 	position:fixed;
+    margin-top:300px;
+	margin-right:100px;
+	margin-left:650px;
+	margin-bottom: 100px;
 
+}
+#but{
+    position:fixed;
+    margin-top:350px;
+	margin-right:100px;
+	margin-left:465px;
+	margin-bottom: 100px;
+}
+#think{
+    position:fixed;
+    margin-top:350px;
+	margin-right:100px;
+	margin-left:670px;
+	margin-bottom: 100px;
 }
 #toknow{
 	position:fixed;
+    margin-top:400px;
+	margin-right:100px;
+	margin-left:500px;
+	margin-bottom: 100px;
+
 
 }
 
 #d{
 	position:fixed;
+    margin-top:400px;
+	margin-right:100px;
+	margin-left:610px;
+	margin-bottom: 100px;
 
 }
 #e{
 	position:fixed;
+    margin-top:405px;
+	margin-right:100px;
+	margin-left:615px;
+	margin-bottom: 100px;
 
 }
 #s{
 	position:fixed;
+    margin-top:415px;
+	margin-right:100px;
+	margin-left:625px;
+	margin-bottom: 100px;
 
 }
 #t{
 	position:fixed;
+    margin-top:420px;
+	margin-right:100px;
+	margin-left:640px;
+	margin-bottom: 100px;
 
 }
 #r{
 	position:fixed;
+    margin-top:420px;
+	margin-right:100px;
+	margin-left:655px;
+	margin-bottom: 100px;
 
 }
 #u{
 	position:fixed;
+    margin-top:435px;
+	margin-right:100px;
+	margin-left:670px;
+	margin-bottom: 100px;
 
 }
 #c{
 	position:fixed;
-
+    margin-top:445px;
+	margin-right:100px;
+	margin-left:670px;
+	margin-bottom: 100px;
 }
 #t2{
 	position:fixed;
+    margin-top:445px;
+	margin-right:100px;
+	margin-left:685px;
+	margin-bottom: 100px;
 
 }
 #i{
 	position:fixed;
+    margin-top:450px;
+	margin-right:100px;
+	margin-left:695px;
+	margin-bottom: 100px;
 
 }
 #o{
 	position:fixed;
-
+    margin-top:465px;
+	margin-right:100px;
+	margin-left:720px;
+	margin-bottom: 100px;
 }
 #n{
 	position:fixed;
-
+    margin-top:460px;
+	margin-right:100px;
+	margin-left:725px;
+	margin-bottom: 100px;
 }
 
 #ice{
-	position:fixed;
+    position:fixed;
+    margin-top:500px;
+	margin-right:100px;
+	margin-left:770px;
+	margin-bottom:100px;
 	
 }
 #is{
 	position:fixed;
+    margin-top:500px;
+	margin-right:100px;
+	margin-left:800px;
+	margin-bottom:100px;
 
 }
 #and{
 	position:fixed;
-
+    margin-top:515px;
+	margin-right:100px;
+	margin-left:770px;
+	margin-bottom: 100px;
 }
