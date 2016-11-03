@@ -1,38 +1,150 @@
-#fireandice{
-}
-#some{
-}
-#theworld{
-}
-#will{
-}
-#infire{
-}
-#somesay{
-}
-#inice{
-}
-#from{
-}
-#tasted{
-}
-#ihold{
-}
-#those{
-}
-#but{
-}
-#perish{
-}
-#think{
-}
-#enough{
-}
-#toknow{
-}
-#destruction{
-}
-#is{
+#fire{
+    position:fixed;
+	margin-top:100px;
+	margin-right:100px;
+	margin-left:200px;
+	margin-bottom: 100px;
+    border:150px solid black;
 }
 #and{
+    position:fixed;
+	margin-top:100px;
+	margin-right:100px;
+	margin-left:500px;
+	margin-bottom: 100px;
+    border:150px solid black;
+}
+#ice{
+    position:fixed;
+	margin-top:100px;
+	margin-right:100px;
+	margin-left:800px;
+	margin-bottom: 100px;
+    border:150px solid black;
+}
+#some{
+    position:fixed;
+	margin-top:90px;
+	margin-right:100px;
+	margin-left:200px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#somesay{
+    position:fixed;
+	margin-top:90px;
+	margin-right:100px;
+	margin-left:560px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#from{
+    position:fixed;
+	margin-top:159px;
+	margin-right:100px;
+	margin-left:300px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#tasted{
+    position:fixed;
+	margin-top:228px;
+	margin-right:100px;
+	margin-left:400px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#ihold{
+    position:fixed;
+	margin-top:296px;
+	margin-right:100px;
+	margin-left:410px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#those{
+    position:fixed;
+	margin-top:345px;
+	margin-right:100px;
+	margin-left:440px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#but{
+    position:fixed;
+	margin-top:398px;
+	margin-right:100px;
+	margin-left:570px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#perish{
+    position:fixed;
+	margin-top:345px;
+	margin-right:100px;
+	margin-left:690px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#think{
+    position:fixed;
+	margin-top:296px;
+	margin-right:100px;
+	margin-left:730px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#enough{
+    position:fixed;
+	margin-top:248px;
+	margin-right:100px;
+	margin-left:750px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#toknow{
+    position:fixed;
+	margin-top:225px;
+	margin-right:100px;
+	margin-left:776px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#destruction{
+    position:fixed;
+	margin-top:200px;
+	margin-right:100px;
+	margin-left:805px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#is{
+    position:fixed;
+	margin-top:170px;
+	margin-right:100px;
+	margin-left:845px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
+}
+#suffice{
+    position:fixed;
+	margin-top:145px;
+	margin-right:100px;
+	margin-left:938px;
+	margin-bottom: 100px;
+    border:1px solid white;
+    color:white
 }

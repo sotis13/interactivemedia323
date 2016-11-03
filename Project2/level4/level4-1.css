@@ -1,0 +1,21 @@
+*{
+    background: #f1ff9b;
+}
+#fire{
+    text-align: center;
+    overflow: hidden;
+    max-width: 300px;
+    border-left:1em solid transparent;
+    border-right:1em solid transparent;
+    text-overflow: ellipsis;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    margin:auto;
+    
+    font-family:Courior New, monospace;
+    line-height:10px;
+    letter-spacing:2px;
+    padding:100px;
+}
