@@ -1,0 +1,270 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+
+}
+
+
+/*1st canvas */
+
+.canvas.gray{ background: #88A0A8;
+				z-index: -1;
+			}
+
+
+.object{position: absolute;
+		}
+
+.vase-container{width: 300px;
+height: 480px;
+bottom: 60px;
+left:200px;}
+
+
+.flower.one{top:95px;
+			left: 100px;
+			}
+
+.stem{width: 8px;
+		height: 80px;
+		background: green;
+		z-index: 1;
+		}
+
+
+
+.petal {width: 30px;
+height: 30px;
+border-radius: 100%;
+background:red;
+z-index: 2;
+top:-15px;
+left:-17px;
+	}
+
+
+.vase{background: white;
+width: 300px;
+height: 300px;
+border-radius: 100%;
+bottom:0;
+			}
+.vase-shadow{width: 300px;
+			 height: 290px;
+			 border-radius: 100%;
+        	margin-left: -30px;
+        	z-index: -1;
+        	bottom: 0;
+        	opacity: .6;
+        	border-style: solid;
+        	border-color: white;
+        		
+        	}
+
+.vase-shadow.two {width: 250px;
+					height: 30px;
+					border-radius: 100%;
+					background: white;
+					opacity:.6;
+					margin-left: 140px;
+					margin-bottom: -2px;}
+
+
+.vase-bottom { width: 100px;
+	           height: 40px;
+	           bottom: 0;
+	           left: 100px;
+	           background: white;
+	        
+	         }
+
+ .vase-top { width: 130px;
+	           height: 40px;
+	           top: -15px;
+	           left: 85px;
+	           background: white;
+	        
+	         }
+
+.vase-topecilipse{width: 130px;
+	           height: 40px;
+	           border-radius:100%;
+	           top: -35px;
+	           left: 85px;
+	           background: #88A0A8;
+	           border-style: solid;
+	           border-color: white;
+
+	       }
+
+.flower.two{top:52px;
+			left: 130px;
+			}
+
+.stem.two {width: 8px;
+		height: 130px;
+		background: green;
+		z-index: 1;
+		}
+
+.petal.two {width: 40px;
+height: 30px;
+border-radius: 100%;
+background:red;
+z-index: 2;
+
+	}
+
+
+.flower.three{top:52px;
+			left: 155px;
+			}
+
+.stem.three {width: 8px;
+		height: 130px;
+		background: green;
+		transform: skew(-20deg);
+		z-index: 1;
+		margin-left: 8px;
+		}
+
+.petal.three {width: 40px;
+height: 30px;
+border-radius: 100%;
+background:red;
+z-index: 2;
+top:-15px;
+left:9px;
+	}
+
+
+
+.flower.four{top:52px;
+			left: 180px;
+			}
+
+.stem.four {width: 8px;
+		height: 90px;
+		background: green;
+		transform: skew(-20deg);
+		z-index: 1;
+		margin-top: 38px;
+		margin-left: 10px;
+		}
+
+.petal.four {width: 40px;
+height: 30px;
+border-radius: 100%;
+background:red;
+z-index: 2;
+top:19px;
+left:9px;
+	}
+
+/* 2nd Canvas */
+
+.canvas.aqua {
+	background: #6EE8E0;
+	z-index: -2;
+}
+
+.water-glass {
+	width: 105px;
+	height: 200px;
+	top: 200px;
+    left: 100px;
+}
+
+.water-glass .body {
+	opacity: 0.5;
+    border-top: 200px solid white;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    height: 0;
+    width: 105px;
+}
+
+.water-glass .bottom {
+	width: 88px;
+    height: 35px;
+    bottom: -17px;
+    background: white;
+    border-radius: 50%;
+    left: 8px;
+}
+
+.water-glass .top {
+	width: 105px;
+    height: 39px;
+    top: -17px;
+    background: #6EE8E0;
+    border-radius: 50%;
+    left: 0px;
+}
+
+.water-glass .top-edge {
+	width: 105px;
+    height: 39px;
+    top: -17px;
+    border: 2px solid white;
+    opacity: 0.5;
+    border-radius: 50%;
+    left: 0px;
+}
+
+.water-glass .level {
+
+}
+
+.water-glass .shadow {
+	width: 400px;
+    height: 35px;
+    background: #08CBBF;
+    bottom: -17px;
+    left: 47px;
+    z-index: -1;
+    background: -webkit-linear-gradient(left, rgba(7,98,79,1), rgba(7,98,79,0)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgba(7,98,79,1), rgba(7,98,79,0)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgba(7,98,79,1), rgba(7,98,79,0)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(7,98,79,1), rgba(7,98,79,0)); /* Standard syntax (must be last) */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
