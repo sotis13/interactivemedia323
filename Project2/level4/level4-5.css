@@ -1,0 +1,48 @@
+#container{
+    text-align: center;
+}
+#title{
+    font-size: 2000%;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+#one{
+    font-size: 800%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two{
+    font-size: 1200%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+#three{
+    font-size: 400%;
+    font-family: serif;
+}
+#four{
+    font-size: 700%;
+    font-family: arial narrow;
+}
+#five{
+    font-size: 500%
+}
+#six{
+    font-size: 1200%;
+    font-family: copperplate gothic light;
+}
+#seven{
+    font-size: 600%;
+}
+#eight{
+    font-size: 600%;
+    font-family: georgia;
+}
+#nine{
+    font-size: 500%;
+    font-family:sans-serif;
+}
+#ten{
+    font-size: 300%;
+    font-family:trebuchet ms;
+}
+#eleven{
+    font-size: 2000%;
+}

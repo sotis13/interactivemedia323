@@ -1,0 +1,203 @@
+*{
+    font-family:century gothic;
+}
+#triangle1{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid red;
+}
+#triangle2{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid orange;
+    margin-left: 100px;
+}
+#triangle3{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid yellow;
+    margin-left:200px;
+}
+#triangle4{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid red;
+    margin-left:300px;
+}
+#triangle5{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid orange;
+    margin-left:400px;
+}
+#triangle6{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid yellow;
+    margin-left:500px;
+}
+#triangle7{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid red;
+    margin-left:600px;
+}
+#triangle8{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid orange;
+    margin-left: 700px;
+}
+#triangle9{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid yellow;
+    margin-left:800px;
+}
+#triangle10{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid red;
+    margin-left:900px;
+}
+#triangle11{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid orange;
+    margin-left:1000px;
+}
+#triangle12{
+    position: absolute;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid yellow;
+    margin-left:1100px;
+}
+#title{
+    position: absolute;
+    font-size:200%;
+    margin-top: 200px;
+}
+#poem{
+    position: absolute;
+    font-size:150%;
+    margin-top: 300px;
+}
+#ice1{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+}
+#ice2{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left: 100px;
+}
+#ice3{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+    margin-left:200px;
+}
+#ice4{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left:300px;
+}
+#ice5{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+    margin-left:400px;
+}
+#ice6{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left:500px;
+}
+#ice7{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+    margin-left:600px;
+}
+#ice8{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left: 700px;
+}
+#ice9{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+    margin-left:800px;
+}
+#ice10{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left:900px;
+}
+#ice11{
+    position: absolute;
+    width: 100px;
+	height: 100px;
+	background: blue;
+    margin-left:1000px;
+}
+#ice12{
+    position: absolute;
+    width: 50px;
+	height: 100px;
+	background: lightblue;
+    margin-left:1100px;
+}

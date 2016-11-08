@@ -1,0 +1,16 @@
+*{
+    font-family:verdana;
+    background-color:black;
+    color:white;
+}
+h1{
+    font-size:450%;
+}
+span{
+    -webkit-transition: font-size 2s; /* For Safari 3.1 to 6.0 */
+    transition: font-size 2s;
+}
+span:hover{
+    text-transform: uppercase;
+    color:darkgrey;
+    font-size:200%;

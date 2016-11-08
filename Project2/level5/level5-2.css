@@ -1,0 +1,10 @@
+*{
+    font-size:80%;
+}
+#container{
+    width:100px;
+    height:auto;
+}
+span:hover{
+    font-size:2000%;
+}

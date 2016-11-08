@@ -1,9 +1,45 @@
 *{
-    font-family:Copperplate, fantasy;
+    font-family:Helvetica, sans-serif;
+    text-align:center;
+}
+#container{
+    position: absolute;
+    width: 1000;
+	height: 1000;
+}
+#blue{
+    position:absolute;
+    width: 0;
+	height: 0;
+	border-top: 500px solid transparent;
+	border-right: 1000px solid rgba(0, 0, 255, 0.6);
+	border-bottom: 500px solid transparent;
+}
+#red{
+    position:absolute;
+    width: 0;
+	height: 0;
+	border-top: 500px solid transparent;
+	border-left: 1000px solid rgba(255, 0, 0, 0.6);
+	border-bottom: 500px solid transparent;
+}
+h1{
+    font-size:300%;
+}
+h2{
+    font-size:250%;
+}
+h3{
+    font-size:150%;
 }
 #fire{
-     font-size: 500%;
+    word-spacing: 858px;
 }
-#some{
-    font-size:200%
+#and{
+}
+#poem{
+    
+}
+#span1{
+    
 }

@@ -1,0 +1,85 @@
+*{
+    font-family:serif;
+    background-color:black;
+    color:whitesmoke;
+}
+#containter{
+    position: absolute;
+    height:500px;
+    width:500px;
+    border:1px black solid;
+}
+#title{
+    font-size:2630%;
+    position:absolute;
+}
+#and{
+    position:absolute;
+    margin-top:375px;
+    margin-left:700px;
+    color:grey;
+}
+#one{
+    position:absolute;
+    margin-left:50px;
+    margin-top:90px;
+}
+#two{
+    position:absolute;
+    margin-top:130px;
+    margin-left:90px;
+}
+#three{
+    position:absolute;
+    margin-top:200px;
+    margin-left:130px;
+}
+#four{
+    position:absolute;
+    margin-top:300px;
+    margin-left:180px;
+}
+#five{
+    position:absolute;
+    margin-top:375px;
+    margin-left:280px;
+}
+#six{
+    position:absolute;
+    margin-top:340px;
+    margin-left:450px;
+}
+#seven{
+    position:absolute;
+    margin-top:300px;
+    margin-left:550px;
+}#eight{
+    position:absolute;
+    margin-top:240px;
+    margin-left:650px;
+}
+#nine{
+    position:absolute;
+    margin-top:180px;
+    margin-left:840px;
+}
+#ten{
+    position:absolute;
+    margin-top:230px;
+    margin-left:1030px;
+}
+#eleven{
+    position:absolute;
+    margin-top:300px;
+    margin-left:1080px;
+}
+#twelve{
+    position:absolute;
+    margin-top:375px;
+    margin-left:1200px;
+}
+#thirteen{
+    position:absolute;
+    margin-top:250px;
+    margin-left:1250px;
+}

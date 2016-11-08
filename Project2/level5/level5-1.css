@@ -1,0 +1,22 @@
+*{
+    color: #333333;
+    font-family: Century Gothic, sans-serif;
+    font-size:200%;
+}
+#container{
+    position: relative;
+    width:auto;
+    height:auto;
+}
+.fire{
+    color:#ff2a00;
+}
+.ice{
+    color:#0099ff;
+}
+span.fire:hover{
+    color:#0099ff;
+}
+span.ice:hover{
+    color:#ff2a00;
+}

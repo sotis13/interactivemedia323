@@ -1,0 +1,25 @@
+*{
+    font-size: 125%;
+    font-family: Brush Script MT, cursive;
+    color:white;
+    opacity: 0.9;
+    
+    background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left,black, white); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,black, white); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(black, white); /*Fx 3.6-15*/
+  background: linear-gradient(to right, black, white,); /*Standard*/
+}
+div{
+    width: 100px;
+    height: 100px;
+    background: none;
+    -webkit-transition: width 7s; /* For Safari 3.1 to 6.0 */
+    transition: width 7s;
+}
+div:hover{
+    width: 500px;
+}
+#title{
+    background:none;
+}
