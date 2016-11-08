@@ -1,0 +1,255 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+#triangle1{	
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(100deg); /* IE 9 */
+    -webkit-transform: rotate(100deg); /* Chrome, Safari, Opera */
+    transform: rotate(100deg);
+
+    position: absolute;
+    top:170px;
+    left:250px;
+}
+#triangle2{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(260deg); /* IE 9 */
+    -webkit-transform: rotate(260deg); /* Chrome, Safari, Opera */
+    transform: rotate(260deg);
+
+    position: absolute;
+    top:170px;
+    left:610px;
+}
+#triangle3{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(80deg); /* IE 9 */
+    -webkit-transform: rotate(80deg); /* Chrome, Safari, Opera */
+    transform: rotate(80deg);
+
+    position: absolute;
+    top:230px;
+    left:250px;
+}
+#triangle4{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(280deg); /* IE 9 */
+    -webkit-transform: rotate(280deg); /* Chrome, Safari, Opera */
+    transform: rotate(280deg);
+
+    position: absolute;
+    top:230px;
+    left:610px;
+}
+#triangle5{	
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+    transform: rotate(10deg);
+
+    position: absolute;
+    top:360px;
+    left:395px;
+}
+#triangle6{	
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(170deg); /* IE 9 */
+    -webkit-transform: rotate(170deg); /* Chrome, Safari, Opera */
+    transform: rotate(170deg);
+
+    position: absolute;
+    top:10px;
+    left:395px;
+}
+#triangle7{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(-10deg); /* IE 9 */
+    -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
+    transform: rotate(-10deg);
+
+    position: absolute;
+    top:360px;
+    left:470px;
+}
+#triangle8{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(190deg); /* IE 9 */
+    -webkit-transform: rotate(190deg); /* Chrome, Safari, Opera */
+    transform: rotate(190deg);
+
+    position: absolute;
+    top:10px;
+    left:470px;
+}
+#triangle9{	
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(65deg); /* IE 9 */
+    -webkit-transform: rotate(65deg); /* Chrome, Safari, Opera */
+    transform: rotate(65deg);
+
+    position: absolute;
+    top:290px;
+    left:275px;
+}
+#triangle10{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(215deg); /* IE 9 */
+    -webkit-transform: rotate(215deg); /* Chrome, Safari, Opera */
+    transform: rotate(215deg);
+
+    position: absolute;
+    top:45px;
+    left:550px;
+}
+#triangle11{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(35deg); /* IE 9 */
+    -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
+    transform: rotate(35deg);
+
+    position: absolute;
+    top:335px;
+    left:330px;
+}
+#triangle12{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(235deg); /* IE 9 */
+    -webkit-transform: rotate(235deg); /* Chrome, Safari, Opera */
+    transform: rotate(235deg);
+
+    position: absolute;
+    top:90px;
+    left:590px;
+}
+#triangle13{	
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(155deg); /* IE 9 */
+    -webkit-transform: rotate(155deg); /* Chrome, Safari, Opera */
+    transform: rotate(155deg);
+
+    position: absolute;
+    top:35px;
+    left:325px;
+}
+#triangle14{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(305deg); /* IE 9 */
+    -webkit-transform: rotate(305deg); /* Chrome, Safari, Opera */
+    transform: rotate(305deg);
+
+    position: absolute;
+    top:300px;
+    left:590px;
+}
+#triangle15{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(125deg); /* IE 9 */
+    -webkit-transform: rotate(125deg); /* Chrome, Safari, Opera */
+    transform: rotate(125deg);
+
+    position: absolute;
+    top:95px;
+    left:270px;
+}
+#triangle16{
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid red;
+
+	-ms-transform: rotate(325deg); /* IE 9 */
+    -webkit-transform: rotate(325deg); /* Chrome, Safari, Opera */
+    transform: rotate(325deg);
+
+    position: absolute;
+    top:340px;
+    left:540px;
+}
