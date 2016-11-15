@@ -157,6 +157,13 @@
     margin-top: 500px;
     color:whitesmoke;
 }
+#and{
+    position: absolute;
+    font-size:1500%;
+    margin-top: 800px;
+    margin-left:1000px;
+    color:whitesmoke;
+}
 #poem{
     position: absolute;
     font-size:350%;

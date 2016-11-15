@@ -50,7 +50,7 @@
     width: 0;
 	height: 0;
 	border-top: 800px solid transparent;
-	border-right: 1700px solid rgba(0, 0, 255, 0.6);
+	border-right: 2200px solid rgba(0, 0, 255, 0.6);
 	border-bottom: 800px solid transparent;
 }
 #red{
@@ -58,7 +58,7 @@
     width: 0;
 	height: 0;
 	border-top: 800px solid transparent;
-	border-left: 1700px solid rgba(255, 0, 0, 0.6);
+	border-left: 2200px solid rgba(255, 0, 0, 0.6);
 	border-bottom: 800px solid transparent;
 }
 #fire{
@@ -74,6 +74,7 @@
     color:whitesmoke;
     margin-top:300px;
     margin-left:400px;
+    opacity: 0.7;
 }
 #ice{
     word-spacing: 858px;

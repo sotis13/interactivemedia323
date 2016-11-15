@@ -44,7 +44,7 @@
 *{
     color: #333333;
     font-family: Century Gothic, sans-serif;
-    font-size:200%;
+    font-size:175%;
 }
 #container{
     position: relative;
@@ -65,7 +65,7 @@ span.ice:hover{
 }
 #twice{
     font-family: Century Gothic, sans-serif;
-    font-size:200%;
+    font-size:175%;
 }
 #twice:hover{
     color:white;
