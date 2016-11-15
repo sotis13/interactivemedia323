@@ -253,3 +253,251 @@ body {
     top:340px;
     left:540px;
 }
+#rectangle{
+    position: absolute;
+	width: 900px;
+	height: 75px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background: #74BBFB; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#74BBFB,#c9e5ff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#74BBFB,#c9e5ff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#74BBFB,#c9e5ff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#74BBFB,#c9e5ff); /* Standard syntax */
+}
+#icicle{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:0px;
+}
+#icicle2{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:300px;
+}
+#icicle3{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:525px;
+}
+#icicle4{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:600px;
+}
+#icicle5{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:750px;
+}
+#icicle6{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 150px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:860px;
+}
+#icicle7{
+    width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 300px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:40px;
+}
+#icicle8{
+    width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 300px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:220px;
+}
+#icicle9{
+    width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 300px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:445px;
+}
+#icicle10{
+    width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 300px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:670px;
+}
+#icicle11{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:120px;
+}
+#icicle12{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:180px;
+}#icicle13{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:400px;
+}#icicle14{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:800px;
+}#icicle15{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:840px;
+}#icicle16{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 250px solid #c9e5ff;
+
+	-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(18deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+    position: absolute;
+    top:75px;
+    left:30px;
+}

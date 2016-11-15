@@ -1,3 +1,46 @@
+/* nav */
+#container{
+    width:100%;
+}
+#home{
+    width:100%;
+    height:46px;
+    background-color:white;
+    position: absolute;
+    top:0;
+}
+#home:hover{
+    background-color: lightgrey;
+}
+#previous{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    top:0;
+}
+#previous:hover{
+    background-color:#f9f9f9;
+}
+#next{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    right:0;
+    top:0;
+}
+#next:hover{
+    background-color:#f9f9f9;
+}
+    background-color: lightgrey;
+
+    background-color:#f9f9f9;
+/* nav */
+
+#all{
+    position: absolute;
+}
 *{
     color: #333333;
     font-family: Century Gothic, sans-serif;
@@ -19,4 +62,11 @@ span.fire:hover{
 }
 span.ice:hover{
     color:#ff2a00;
+}
+#twice{
+    font-family: Century Gothic, sans-serif;
+    font-size:200%;
+}
+#twice:hover{
+    color:white;
 }

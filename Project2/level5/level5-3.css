@@ -1,16 +1,58 @@
+/* nav */
+#container{
+    width:100%;
+}
+#home{
+    width:100%;
+    height:46px;
+    background-color:white;
+    position: absolute;
+    top:0;
+}
+#home:hover{
+    background-color: lightgrey;
+}
+#previous{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    top:0;
+}
+#previous:hover{
+    background-color:#f9f9f9;
+}
+#next{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    right:0;
+    top:0;
+}
+#next:hover{
+    background-color:#f9f9f9;
+}
+    background-color: lightgrey;
+
+    background-color:#f9f9f9;
+/* nav */
+
+#all{
+    position: absolute;
+}
 *{
     font-family:verdana;
-    background-color:black;
-    color:white;
+    opacity: 0.8;
 }
 h1{
     font-size:450%;
 }
-span{
+.yas{
     -webkit-transition: font-size 2s; /* For Safari 3.1 to 6.0 */
     transition: font-size 2s;
 }
-span:hover{
+.yas:hover{
     text-transform: uppercase;
     color:darkgrey;
     font-size:200%;

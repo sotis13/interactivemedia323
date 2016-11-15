@@ -1,0 +1,240 @@
+/* nav */
+#container{
+    width:100%;
+}
+#home{
+    width:100%;
+    height:46px;
+    background-color:white;
+    position: absolute;
+    top:0;
+}
+#home:hover{
+    background-color: lightgrey;
+}
+#previous{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    top:0;
+}
+#previous:hover{
+    background-color:#f9f9f9;
+}
+#next{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    right:0;
+    top:0;
+}
+#next:hover{
+    background-color:#f9f9f9;
+}
+    background-color: lightgrey;
+
+    background-color:#f9f9f9;
+/* nav */
+
+#all{
+    position: absolute;
+}
+#fire{
+    position:fixed;
+    font-family:Times, serif;
+    font-size:2000%;
+  color: white;
+  -webkit-transition: text-shadow 1s linear;
+  -moz-transition: text-shadow 1s linear;
+  -ms-transition: text-shadow 1s linear;
+  -o-transition: text-shadow 1s linear;
+  transition: text-shadow 1s linear;
+    margin-left:25px;
+    margin-top:100px;
+}
+ 
+#fire:hover { 
+    text-shadow: 2px 2px 4px red; 
+}
+#re{
+    letter-spacing: 9px;
+}
+
+#and{
+    position:fixed;
+    font-family:Times, serif;
+    font-size:200%;
+    margin-top:360px;
+    margin-left:140px;
+    color: white;
+  -webkit-transition: text-shadow 1s linear;
+  -moz-transition: text-shadow 1s linear;
+  -ms-transition: text-shadow 1s linear;
+  -o-transition: text-shadow 1s linear;
+  transition: text-shadow 1s linear;
+}
+#and:hover{
+    text-shadow: 2px 2px 4px #000000; 
+}
+
+#ice{
+    position:fixed;
+    font-family:Times, serif;
+    font-size:2000%;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+    margin-left:203px;
+    margin-top:300px;
+    color: white;
+  -webkit-transition: text-shadow 1s linear;
+  -moz-transition: text-shadow 1s linear;
+  -ms-transition: text-shadow 1s linear;
+  -o-transition: text-shadow 1s linear;
+  transition: text-shadow 1s linear;
+}
+#ice:hover{
+    text-shadow: 2px 2px 4px #ccefff; 
+}
+
+#one{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:178px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#one:hover{
+    color: red;
+}
+#two{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:198px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#two:hover{
+    color: #ccefff;
+}
+#three{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:218px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#three:hover{
+    color: red;
+}
+#four{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:238px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#four:hover{
+    color: red;
+}
+#five{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:258px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#five:hover{
+    color: black;
+}
+#six{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:278px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#six:hover{
+    color: #ccefff;
+}
+#seven{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:298px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#seven:hover{
+    color: #ccefff;
+}
+#eight{
+    position:fixed;
+    font-family:Helvetica, sans-serif;
+    font-size:125%;
+    color:lightgrey;
+    margin-left:705px;
+    margin-top:318px;
+    color: white;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+#eight:hover{
+    color: black;
+}
+

@@ -62,7 +62,7 @@ li.dropdown {
     position:fixed;
     font-family:Times, serif;
     font-size:2000%;
-  color: #black;
+  color: black;
   -webkit-transition: color 1s linear;
   -moz-transition: color 1s linear;
   -ms-transition: color 1s linear;
@@ -74,6 +74,9 @@ li.dropdown {
  
 #fire:hover { 
     color: red; 
+}
+#re{
+    letter-spacing: 9px;
 }
 
 #and{

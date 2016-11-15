@@ -1,39 +1,84 @@
+/* nav */
+#container{
+    width:100%;
+}
+#home{
+    width:100%;
+    height:46px;
+    background-color:white;
+    position: absolute;
+    top:0;
+}
+#home:hover{
+    background-color: lightgrey;
+}
+#previous{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    top:0;
+}
+#previous:hover{
+    background-color:#f9f9f9;
+}
+#next{
+    width:200px;
+    height:46px;
+    background-color:lightgrey;
+    position: absolute;
+    right:0;
+    top:0;
+}
+#next:hover{
+    background-color:#f9f9f9;
+}
+    background-color: lightgrey;
+
+    background-color:#f9f9f9;
+/* nav */
+
+#all{
+    position: absolute;
+}
 #container{
     text-align: center;
 }
 #title{
-    font-size: 2000%;
-    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 1500%;
+    font-family:sans-serif;
 }
 #one{
     font-size: 800%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:sans-serif;
 }
 #two{
     font-size: 1200%;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    font-family:sans-serif;
 }
 #three{
     font-size: 400%;
-    font-family: serif;
+    font-family:sans-serif;
 }
 #four{
     font-size: 700%;
-    font-family: arial narrow;
+    font-family:sans-serif;
 }
 #five{
     font-size: 500%
+    font-family:sans-serif;
 }
 #six{
     font-size: 1200%;
-    font-family: copperplate gothic light;
+    font-family:sans-serif;
 }
 #seven{
     font-size: 600%;
+    font-family:sans-serif;
 }
 #eight{
     font-size: 600%;
-    font-family: georgia;
+    font-family:sans-serif;
 }
 #nine{
     font-size: 500%;
@@ -41,8 +86,9 @@
 }
 #ten{
     font-size: 300%;
-    font-family:trebuchet ms;
+    font-family:sans-serif;
 }
 #eleven{
     font-size: 2000%;
+    font-family:sans-serif;
 }
