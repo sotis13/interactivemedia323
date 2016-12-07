@@ -1,0 +1,39 @@
+body{
+    font-family: Arial;
+    font-weight: bold;
+}
+.little{
+    position: absolute;
+    letter-spacing: .4px;
+    font-size: 400%;
+    margin-left: 300px;
+}
+.boxes{
+    position: absolute;
+    font-size: 400%;
+    margin-left: 300px;
+}
+.and{
+    position: absolute;
+    font-size:250%;
+    margin-top:800px;
+}
+#tacky{
+    margin-left: 300px;
+}
+#same{
+    margin-left: 1075px;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}
+#uno {
+    
+}
+#dos {
+    
+}

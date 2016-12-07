@@ -1,0 +1,87 @@
+body{
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #A5DCF4;
+}
+.little{
+    position: absolute;
+    letter-spacing: .4px;
+    font-size: 400%;
+    margin-left: 300px;
+}
+.boxes{
+    position: absolute;
+    font-size: 400%;
+    margin-left: 300px;
+}
+.color{
+    position: absolute;
+    font-size:420%;
+    margin-left:300px;
+}
+#little{
+    margin-top:100px;
+}
+#boxes{
+    margin-top:175px;
+}
+#little2{
+    margin-top:255px;
+}
+#boxes2{
+    margin-top:355px;
+}
+#little3{
+    margin-top:430px;
+}
+#boxes3{
+    margin-top:505px;
+}
+#little4{
+    margin-top:605px;
+}
+#boxes4{
+    margin-top:680px;
+}
+#little5{
+    margin-top:755px;
+}
+#newsame{
+    position: absolute;
+    font-size: 200%;
+    margin-top:710px;
+    margin-left:674px;
+}
+#heart{
+    position: absolute;
+    font-family: Georgia;
+    font-size: 200%;
+    margin-top: 709px;
+    margin-left: 780px;
+}
+#trailer{
+    position: absolute;
+    font-family: Georgia;
+    font-size: 200%;
+    margin-top: 739px;
+    margin-left: 780px;
+}
+#there{
+    margin-top:605px;
+    letter-spacing: 1px;
+}
+#green{
+    margin-top:680px;
+    letter-spacing: 14px;
+}
+#one{
+    margin-top:751px;
+    letter-spacing: 39px;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+.color a{
+    color:#5BC0EB;
+}

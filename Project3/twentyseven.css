@@ -1,0 +1,37 @@
+body{
+    font-weight: bold;
+}
+.georgia{
+    position: absolute;
+    font-family: Georgia;
+    color:black;
+}
+.arial{
+    position: absolute;
+    font-family: Arial;
+    color:black;
+}
+#a2{
+    margin-top:0px;
+    margin-left:500px;
+    font-size:800%;
+    
+    -webkit-animation: moving 5s forwards;
+    animation: moving 5s forwards;
+}
+@-webkit-keyframes moving {
+    from {-webkit-transform: translateY(0px);}
+    to {-webkit-transform: translateY(500px);}
+}
+
+@keyframes moving {
+    from {transform: translateY(0px);}
+    to {transform: translateY(500px);}
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}

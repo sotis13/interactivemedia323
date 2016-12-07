@@ -1,0 +1,34 @@
+body{
+    font-family: Arial;
+    font-weight: bold;
+}
+.lyric{
+    position: absolute;
+    font-size: 400%;
+    margin-left: 365px;
+}
+.and{
+    position: absolute;
+    font-size:1760%;
+    margin-left:300px;
+}
+#boxes2{
+    margin-top:55px;
+}
+#little3{
+    margin-top:400px;
+    font-family: Georgia;
+}
+#boxes3{
+    margin-top:550px;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}
+#pink a:hover{
+    color:#CD6461;
+}

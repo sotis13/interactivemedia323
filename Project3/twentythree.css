@@ -1,0 +1,113 @@
+body{
+    font-weight: bold;
+}
+.georgia{
+    position: absolute;
+    font-size:200%;
+    font-family: Georgia;
+    margin-left:300px;
+    color:white;
+}
+.arial{
+    position: absolute;
+    font-size:500%;
+    font-family: Arial;
+    color:black;
+    margin-left:300px;
+    
+}
+#a1{
+    margin-top:100px;
+    letter-spacing: 13px;
+}
+#g1{
+    margin-top:80px;
+}
+#a1:hover + #g1 {
+    color:black;
+}
+#a2{
+    margin-top:200px;
+    letter-spacing: 19.3px;
+}
+#g2{
+    margin-top:180px;
+    margin-left: 460px;
+}
+#a2:hover + #g2 {
+    color:black;
+}
+#a3{
+    margin-top:300px;
+    letter-spacing: 12.6px;
+}
+#g3{
+    margin-top:280px;
+    margin-left:500px;
+}
+#a3:hover + #g3 {
+    color:black;
+}
+#a4{
+    margin-top:400px;
+    letter-spacing: 8.2px;
+}
+#g4{
+    margin-top:380px;
+    margin-left:840px;
+}
+#a4:hover + #g4 {
+    color:#5BC0EB;
+}
+#a5{
+    margin-top:500px;
+    letter-spacing: 6.7px;
+}
+#g5{
+    margin-top:480px;
+    margin-left:700px;
+}
+#a5:hover + #g5 {
+    color:black;
+}
+#a6{
+    margin-top:600px;
+    letter-spacing: 21px;
+}
+#g6{
+    margin-top:580px;
+    margin-left:720px;
+}
+#a6:hover + #g6 {
+    color:black;
+}
+#a7{
+    margin-top:700px;
+    letter-spacing: .2px;
+}
+#g7{
+    margin-top:680px;
+    margin-left:600px;
+}
+#a7:hover + #g7 {
+    color:#9BC53D;
+}
+#a8{
+    margin-top:800px;
+    letter-spacing: 8.6px;
+}
+#g8{
+    margin-top:755px;
+    margin-left:300px;
+    line-height: 90px;
+}
+#a8:hover + #g8 {
+    color:black;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}

@@ -1,0 +1,70 @@
+body{
+    font-weight: bold;
+}
+.georgia{
+    position: absolute;
+    font-family: Georgia;
+    color:black;
+}
+.arial{
+    position: absolute;
+    font-family: Arial;
+    color:black;
+}
+#a2{
+    margin-top:100px;
+    margin-left:1000px;
+    font-size:1800%;
+}
+#a3{
+    margin-top:210px;
+    margin-left:540px;
+    font-size:200%;
+}
+#a4{
+    margin-top:260px;
+    margin-left:440px;
+    font-size:200%;
+}
+#a5{
+    margin-top:370px;
+    margin-left:875px;
+    font-size:300%;
+}
+#a6{
+    margin-top:420px;
+    margin-left:480px;
+    font-size:500%;
+}
+#a7{
+    margin-top:320px;
+    margin-left:875px;
+    font-size:300%;
+}
+#a8{
+    margin-top:490px;
+    margin-left:875px;
+    font-size:500%;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}
+#booze a:hover{
+    color:#9BC53D;
+}
+#hill a:hover{
+    color:#FDE74C;
+}
+#jack a:hover{
+    color:#5BC0EB;
+}
+#jill a:hover{
+    color:#CD6461;
+}
+#jack2 a:hover{
+    color:#5BC0EB;
+}

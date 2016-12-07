@@ -1,0 +1,76 @@
+body{
+    font-family: Arial;
+    font-weight: bold;
+}
+.little{
+    position: absolute;
+    letter-spacing: .4px;
+    font-size: 400%;
+    margin-left: 300px;
+}
+.boxes{
+    position: absolute;
+    font-size: 400%;
+    margin-left: 300px;
+}
+#little{
+    margin-top:100px;
+}
+#boxes{
+    margin-top:175px;
+}
+#little2{
+    margin-top:255px;
+}
+#boxes2{
+    margin-top:355px;
+}
+#little3{
+    margin-top:430px;
+}
+#boxes3{
+    margin-top:505px;
+}
+#little4{
+    margin-top:605px;
+}
+#boxes4{
+    margin-top:680px;
+}
+#little5{
+    margin-top:755px;
+}
+#hillside{
+    position: absolute;
+    font-size: 200%;
+    margin-top:205px;
+    margin-left:575px;
+}
+#tacky{
+    position: absolute;
+    font-size: 200%;
+    margin-top:385px;
+    margin-left:575px;
+}
+#hillside2{
+    position: absolute;
+    font-size: 200%;
+    margin-top:535px;
+    margin-left:575px;
+}
+#same{
+    position: absolute;
+    font-size: 200%;
+    margin-top:710px;
+    margin-left:575px;
+}
+#sam:hover{
+    color: white; 
+}
+#sam{
+    color:#404E4D;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

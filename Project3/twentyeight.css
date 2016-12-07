@@ -1,0 +1,30 @@
+body{
+    font-weight: bold;
+}
+.georgia{
+    position: absolute;
+    font-family: Georgia;
+    color:black;
+}
+.arial{
+    position: absolute;
+    font-family: Arial;
+    color:black;
+}
+#a2{
+    margin-top:100px;
+    margin-left:110px;
+    font-size:1300%;
+}
+#a3{
+    margin-top:600px;
+    margin-left:1000px;
+    font-size:1000%;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
+a:hover{
+    color:white;
+}

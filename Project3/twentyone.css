@@ -1,0 +1,87 @@
+body{
+    font-weight: bold;
+}
+.mary{
+    position: absolute;
+    font-size:800%;
+    font-family: Georgia;
+}
+.marry{
+    position: absolute;
+    font-size:880%;
+    font-family: Arial;
+}
+.georgia{
+    position: absolute;
+    font-size:300%;
+    font-family: Georgia;
+    color:white;
+}
+.arial{
+    position: absolute;
+    font-size:380%;
+    font-family: Arial;
+    color:white;
+    
+}
+#mary{
+    margin-top:55px;
+    margin-left:1200px;
+}
+#mary a:hover{
+    color:#CD6461;
+}
+#kay{
+    margin-top:85px;
+    margin-left:745px;
+}
+#mary:hover + #kay {
+    color:black;
+}
+#mary2{
+    margin-top:250px;
+    margin-left:900px;
+}
+#mary2 a:hover{
+    color:#9BC53D;
+}
+#jane{
+    margin-top:280px;
+    margin-left:400px;
+}
+#mary2:hover + #jane {
+    color:black;
+}
+#mary3{
+    margin-top:450px;
+    margin-left:600px;
+}
+#mary3 a:hover{
+    color:#FDE74C;
+}
+#daddy{
+    margin-top:480px;
+    margin-left:140px;
+}
+#mary3:hover + #daddy {
+    color:black;
+}
+#marry{
+    margin-top:655px;
+    margin-left:300px;
+}
+#marry a:hover{
+    color:#5BC0EB;
+}
+#family{
+    margin-top:600px;
+    margin-left:100px;
+    line-height: 55px;
+}
+#marry:hover + #family {
+    color:black;
+}
+a{
+    text-decoration: none;
+    color: #404E4D;
+}
